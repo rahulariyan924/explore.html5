@@ -1,0 +1,19 @@
+nav ul{
+      display: flex;
+}
+
+nav li{
+      list-style: none;
+      margin: 20px;
+      padding: 0 5px;
+
+}
+nav li:hover{
+      background-color: chocolate;
+}
+
+nav li a{
+      text-decoration: none ;
+      color: burlywood;
+      font-size: 30px;
+}
